@@ -1,23 +1,21 @@
 export const data = {
+    bride: {
         L: {
             id: 1,
-            name: 'Abd. Rosid, S.Pd',
-            child: 'Putra',
-            father: 'H. Sumarto',
-            mother: 'Hj. Hosniyah',
-            ig: '<a href="https://instagram.com/colexionjun/" style="text-decoration:none;"><b>colexionjun</b></a>',
+            name: 'Lorem Ipsum',
+            child: 'Putra ke lorem',
+            father: 'Lorem',
+            mother: 'Ipsum',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Nurul Qomariyah',
-            child: 'Putri',
-            father: 'Moh. Sholeh (alm)',
-            mother: 'Rahma',
-            ig: '<a href="https://instagram.com/didil_fadil_/" style="text-decoration:none;"><b>didil_fadil_</b></a>',
+            name: 'Ipsum Lorem',
+            child: 'Putri ke lorem',
+            father: 'Lorem',
+            mother: 'Ipsum',
             image: './src/assets/images/cewe.png'
         },
-
         couple: './src/assets/images/couple.png'
     },
 
