@@ -50,7 +50,7 @@ export const data = {
         map: 'https://maps.app.goo.gl/SQpPujGfvfv4tFoa6',
     },
 
-    galeri: [
+    #galeri: [
         {
             id: 1,
             image: './src/assets/images/1.png'
