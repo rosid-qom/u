@@ -2,18 +2,18 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Lorem Ipsum',
-            child: 'Putra ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Abd. Rosid, S.Pd',
+            child: 'Putra',
+            father: 'H. Sumarto',
+            mother: 'Hj. Hosniyah',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Ipsum Lorem',
-            child: 'Putri ke lorem',
-            father: 'Lorem',
-            mother: 'Ipsum',
+            name: 'Nurul Qomariyah',
+            child: 'Putri',
+            father: 'Moh. Sholeh (alm)',
+            mother: 'Rahma',
             image: './src/assets/images/cewe.png'
         },
         couple: './src/assets/images/couple.png'
@@ -83,7 +83,7 @@ export const data = {
 
     audio: './src/assets/audio/wedding.mp3',
 
-    api: 'https://script.google.com/macros/s/AKfycbxZKz2S3k2nwg9BTn4De3JvnpWnCxR7NCQsi5jGstESQqK5T_G08DD5zk4bQuNU34cq3w/exec',
+    api: 'https://script.google.com/macros/s/AKfycbwYPHorg4s6xeyBt3xN8zWg0FUpyZFVcFNf0U4_st3J1G7o4ZI8HnXSpuDP22RdCF04yw/exec',
 
     navbar: [
         {
