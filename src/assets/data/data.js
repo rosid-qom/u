@@ -53,7 +53,7 @@ export const data = {
     galeri: [
         {
             id: 1,
-            image: './src/assets/images/1.jpg'
+            image: './src/assets/images/1.png'
         }
     ],
 
