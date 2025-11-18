@@ -77,7 +77,7 @@ export const data = {
         {
             id: 1,
             name: 'Abd. Rosid',
-            icon: './src/assets/images/bca.png',
+            icon: './src/assets/images/mandiri.png',
             rekening: '1090021211826'
         },
 
