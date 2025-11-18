@@ -50,6 +50,28 @@ export const data = {
         map: 'https://maps.app.goo.gl/SQpPujGfvfv4tFoa6',
     },
 
+    galeri: [
+        {
+            id: 1,
+            image: ''
+        },
+        {
+            id: 2,
+            image: ''
+        },
+        {
+            id: 3,
+            image: ''
+        },
+        {
+            id: 4,
+            image: ''
+        },
+        {
+            id: 5,
+            image: ''
+        }
+    ],
 
     bank: [
         {
